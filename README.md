@@ -1,2 +1,1 @@
-# Linguagem-C
-Programas feitos usando linguagem C
+Implementação das estruturas de dados: fila e pilha
